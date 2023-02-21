@@ -1,6 +1,13 @@
 # khusc-dorm-roll-call
 此腳本可於每日晚上 9:35 自動完成實踐大學高雄校區宿舍點名，完全免費且開源。
 
+## 最新消息
+學校已火速加上驗證碼，此程式暫時失效，但仍可供大家學習瀏覽器自動化([Selenium](https://pypi.org/project/selenium/))及排程([Schedule](https://pypi.org/project/schedule/))。
+
+![image](https://user-images.githubusercontent.com/80938768/220354766-31e89873-5de9-4bdf-9a19-4d1e47dd846c.png)
+
+如果使用 [reCAPTCHA](https://www.google.com/recaptcha/about/) 應該可以更好的防止自動化程式。
+
 ## 需求
 Win10 以上電腦，連接宿舍網路，需保持開機。
 
