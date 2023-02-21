@@ -50,7 +50,7 @@ def job():
 
     driver.close()
 
-schedule.every().day.at('22:05').do(job)
+schedule.every().day.at('21:35').do(job)
 
 while True:
     schedule.run_pending()
