@@ -19,7 +19,7 @@ Win10 以上電腦，連接宿舍網路，需保持開機。
 ## 開發者
 資通二乙 曾彥翔(Xeift)
 
-資管一甲 黃耀霆(Rex)
+資管一甲 黃耀霆(RexIscodingnow)
 
 ## 幫助
 有任何問題請洽 Discord 或者 make an issue。
