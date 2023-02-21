@@ -35,3 +35,5 @@ RexIscodingnow
 
 ## TODO
 GUI
+
+Discord Webhook 通知
