@@ -17,16 +17,12 @@ Win10 以上電腦，連接宿舍網路，需保持開機。
 使用本程式則視同同意上述規定，若不同意請勿使用。
 
 ## 開發者
-資通二乙 曾彥翔(Xeift)
+Xeift
 
-資管一甲 黃耀霆(RexIscodingnow)
+RexIscodingnow
 
 ## 幫助
-有任何問題請洽 Discord 或者 make an issue。
-
-Xeift#1230
-
-黃耀霆#8007
+有任何問題請 make an issue。
 
 ## 為什麼做這東西？
 這個程式原本是自用的，直到前幾天有人寄下面的 Email 給全體一年級學生，點名系統賣 500 塊。
